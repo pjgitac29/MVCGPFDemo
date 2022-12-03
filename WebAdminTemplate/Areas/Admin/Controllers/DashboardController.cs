@@ -6,6 +6,7 @@ namespace WebAdminTemplate.Areas.Admin.Controllers
     [Route("admin/Dashboard")]
     public class DashboardController : Controller
     {
+        [Route("~/")]
         [Route("")]
         [Route("index")]
         public IActionResult Index()

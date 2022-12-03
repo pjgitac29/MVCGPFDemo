@@ -54,9 +54,10 @@ namespace WebAdminTemplate.Areas.Admin.Controllers
             {
                 data.GPFAmount = data.MemberContribution;
             }
+            data.EmployeeType = model.EmployeeType;
             _context.GPFData.Add(data);
             _context.SaveChanges();
-            return RedirectToAction("index", "");
+            return View(model);
         }
         [Route("onFileUpload")]
         [HttpPost]

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAdminTemplate
 build_property.RootNamespace = WebAdminTemplate
-build_property.ProjectDir = e:\Pooja\Freelance\Pune\AdminPanelForTestTask\WebAdminTemplate\WebAdminTemplate\
+build_property.ProjectDir = E:\Pooja\Freelance\Pune\AdminPanelForTestTask\WebAdminTemplate\WebAdminTemplate\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\Pooja\Freelance\Pune\AdminPanelForTestTask\WebAdminTemplate\WebAdminTemplate
+build_property.MSBuildProjectDirectory = E:\Pooja\Freelance\Pune\AdminPanelForTestTask\WebAdminTemplate\WebAdminTemplate
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Dashboard/Index.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/GPF/Create.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/GPF/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR1BGXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/GPF/Index.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/GPF/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR1BGXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Login/Index.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Shared/_Layout.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Views/Home/Index.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/_ViewImports.cshtml]
+[E:/Pooja/Freelance/Pune/AdminPanelForTestTask/WebAdminTemplate/WebAdminTemplate/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
