@@ -1,0 +1,12 @@
+USE [GPFData]
+GO
+SET IDENTITY_INSERT [dbo].[Employee] ON 
+GO
+INSERT [dbo].[Employee] ([Id], [EmployeeNumber], [Name], [Employer], [Designation], [Salary]) VALUES (1, 101, N'Jacob', N'Hiteshi', N'SSE', CAST(50000.00 AS Decimal(18, 2)))
+GO
+INSERT [dbo].[Employee] ([Id], [EmployeeNumber], [Name], [Employer], [Designation], [Salary]) VALUES (2, 102, N'Martha', N'Hiteshi', N'SSE', CAST(60000.00 AS Decimal(18, 2)))
+GO
+INSERT [dbo].[Employee] ([Id], [EmployeeNumber], [Name], [Employer], [Designation], [Salary]) VALUES (3, 103, N'John', N'Hiteshi', N'SSE', CAST(60000.00 AS Decimal(18, 2)))
+GO
+SET IDENTITY_INSERT [dbo].[Employee] OFF
+GO
